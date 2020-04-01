@@ -1,0 +1,1 @@
+1585667880484|13|statement|connection 3|url jdbc:p6spy:mysql://127.0.0.1:3306/user?characterEncoding=utf-8&useUnicode&serverTimezone=UTC|SELECT  id,name,age,email,version,deleted,create_time,update_time  FROM tb_user   WHERE deleted=0|SELECT  id,name,age,email,version,deleted,create_time,update_time  FROM tb_user   WHERE deleted=0
